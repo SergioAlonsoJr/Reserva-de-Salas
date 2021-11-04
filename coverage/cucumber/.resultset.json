@@ -60,22 +60,6 @@
           0,
           0,
           0,
-          null,
-          null,
-          0,
-          0,
-          0,
-          0,
-          null,
-          null,
-          0,
-          0,
-          0,
-          0,
-          null,
-          0,
-          0,
-          null,
           0
         ],
         "branches": {
@@ -282,6 +266,26 @@
         "lines": [
           0,
           0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           0
         ],
         "branches": {
@@ -723,6 +727,6 @@
         }
       }
     },
-    "timestamp": 1636032018
+    "timestamp": 1636032553
   }
 }
